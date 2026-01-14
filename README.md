@@ -1,7 +1,7 @@
 # eScriba Project Website
 
 Welcome to the official website repository for the eScriba Project at the
-[https://www.uva.es](University of Valladolid). This site serves as the main hub for information, updates, and resources related to the eScriba initiative.
+[University of Valladolid](https://www.uva.es). This site serves as the main hub for information, updates, and resources related to the eScriba initiative.
 
 ## About the Project
 
