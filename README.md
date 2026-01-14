@@ -30,5 +30,7 @@ We welcome contributions! Please see the CONTRIBUTING.md (if available) for guid
 For questions or support, please contact the project team at escriba@uva.es.
 
 <hr/>
+[<img src="https://avatars.githubusercontent.com/u/254875532?s=200&v=4" width="250"/>](https://www.uva.es/)
 <div style="text-align: right;">© 2026 Universidad de Valladolid. All rights reserved.</div>
+
 
