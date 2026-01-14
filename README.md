@@ -1,34 +1,34 @@
-# eScriba Project Website
+## eScriba Project Website
 
 Welcome to the official website repository for the eScriba Project at the
 [University of Valladolid](https://www.uva.es). This site serves as the main hub for information, updates, and resources related to the eScriba initiative.
 
-## About the Project
+### About the Project
 
 eScriba is a collaborative project focused on digital tools and resources
 for academic and research communities. Our goal is to provide innovative solutions
 for document management, collaboration, and knowledge sharing within the university
 and beyond.
 
-## Features
+### Features
 
 - Project news and updates
 - Documentation and guides
 - Resource downloads
 - Contact and support information
 
-## Getting Started
+### Getting Started
 This repository contains the source for the public website. To contribute or suggest changes, please fork the repository and submit a pull request.
 
-## Usage
+### Usage
 This is a static website. You can view the site by opening the HTML files in your browser or by deploying it to a static hosting service (such as GitHub Pages).
 
-## Contributing
+### Contributing
 We welcome contributions! Please see the CONTRIBUTING.md (if available) for guidelines.
 
-## Contact
+### Contact
 For questions or support, please contact the project team at escriba@uva.es.
 
 <hr/>
 
-© 2026 University of Valladolid. All rights reserved.
+<div style="text-align: right;">© 2026 University of Valladolid. All rights reserved.</div>
