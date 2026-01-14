@@ -30,5 +30,5 @@ We welcome contributions! Please see the CONTRIBUTING.md (if available) for guid
 For questions or support, please contact the project team at escriba@uva.es.
 
 <hr/>
-![Project Logo](https://github.com/organizations/HTR-UVA/settings/profile)
+![Project Logo](https://avatars.githubusercontent.com/u/254875532?s=200&v=4)
 <div style="text-align: right;">© 2026 University of Valladolid. All rights reserved.</div>
